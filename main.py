@@ -14,3 +14,8 @@ with col2:
     and Flutter, I'm passionate with technology, I'm kinda a techie gigyy person!
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps i have built in Python. Feel free to contact me anytime!
+"""
+st.write(content2)
